@@ -1,2 +1,5 @@
+# hey these should go in bash rc
 alias acode="am start com.foxdebug.acode/com.foxdebug.acode.MainActivity && clear"
-alias cashapp="am start com.squareup.cash"
+alias browser="am start com.android.chrome && clear"
+alias cashapp="am start com.squareup.cash && clear"
+alias bankam start org.clecu.clecu/com.cuanativeandroidrdc.mobile.activity.ActivityNavigation && clear"
