@@ -1,0 +1,2 @@
+alias acode="am start com.foxdebug.acode/com.foxdebug.acode.MainActivity && clear"
+alias cashapp="am start com.squareup.cash"
