@@ -5,6 +5,7 @@ alias camera="am start com.motorola.camera3/com.motorola.camera.Camera && clear"
 alias cashapp="am start com.squareup.cash && clear"
 alias chrome="am start com.android.chrome/com.google.android.apps.chrome.Main && clear"
 alias clecu="am start org.clecu.clecu/com.cuanativeandroidrdc.mobile.activity.ActivityNavigation && clear"
+alias clock="am start com.google.android.deskclock/com.google.android.deskclock.DeskClock && clear"
 
 
 
