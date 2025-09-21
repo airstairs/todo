@@ -1,1 +1,4 @@
-hey write me right tmux widget shit
+import subprocess
+
+session_name = "sshserver"
+
