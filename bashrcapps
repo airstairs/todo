@@ -1,0 +1,6 @@
+
+
+
+
+alias clock="am start -n com.google.android.deskclock/com.android.deskclock.DeskClock"
+
