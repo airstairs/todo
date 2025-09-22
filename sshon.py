@@ -1,12 +1,11 @@
 import os
 import getpass
 import socket
+import time
 
 def get_user_name():
   username = getpass.getuser()
   return username
-
-
 
 def get_local_ip():
     """Get the local IP address by connecting to a public server."""
@@ -23,16 +22,16 @@ def get_local_ip():
         if s:
             s.close()
 
-print(f"Local IP address: {get_local_ip()}")
+#print(f"Local IP address: {get_local_ip()}")
 
 
 # start sshd
-# os.system("sshd")
-# os.system("termux-notification -t create me")
-# os.system("termux-notification -c \"hello2234\" -t \"hello99\"")
+os.system("sshd")
+
 cmnd=f"ssh -p 8022 {get_user_name()}@{get_local_ip()}"
 os.system(f"termux-notification -c \"{cmnd}\" -t \"ssh\"")
 
 
 print(f"\n\n\n\n\n      {cmnd}\n\n\n\n\n")
-
+time.sleep(9)
+os.system("am start -n com.google.android.keep/com.google.android.apps.keep.ui.activities.BrowseActivity")
