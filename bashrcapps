@@ -2,6 +2,7 @@ alias acode="am start com.foxdebug.acode/com.foxdebug.acode.MainActivity"
 alias btkbd="am start io.appground.blek/io.appground.blek.MainActivity"
 alias calendar="termux-open-url https://calendar.google.com"
 alias camera="am start com.motorola.camera3/com.motorola.camera.Camera"
+alias cashapp="am start com.squareup.cash"
 
 alias clock="am start -n com.google.android.deskclock/com.android.deskclock.DeskClock"
 
