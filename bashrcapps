@@ -5,3 +5,4 @@ alias acode="am start com.foxdebug.acode/com.foxdebug.acode.MainActivity"
 alias clock="am start -n com.google.android.deskclock/com.android.deskclock.DeskClock"
 
 
+test
