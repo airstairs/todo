@@ -14,6 +14,7 @@ alias flipaclip="am start com.vblast.flipaclip/com.vblast.feature_startup.presen
 alias gemini="am start com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity"
 alias github="am start com.github.android/com.github.android.main.MainActivity"
 alias gmail="am start com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"
+alias hermit="am start com.chimbori.hermitcrab"
 alias hello="termux-open-url http:localhost:8000"
 alias keep="am start com.google.android.keep/com.google.android.keep.activities.BrowseActivity"
 alias kiwi="am start com.kiwibrowser.browser"
