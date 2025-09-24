@@ -21,6 +21,7 @@ alias maps="am start com.google.android.apps.maps/com.google.android.maps.MapsAc
 alias messages=am start com.google.android.apps.messaging"
 alias paint="am start -n com.aige.hipaint/com.aige.hipaint.inkpaint.activity.WelcomeActivity"
 alias phone="am start com.google.android.dialer"
+alias photos="am start com.google.android.apps.photos"
 
 
 
