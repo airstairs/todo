@@ -27,6 +27,7 @@ alias pydroid="am start ru.iiec.pydroid3/ru.iiec.pydroid.MainActivity"
 alias repos="termux-open-url https://github.com/airstairs?tab=repositories"
 alias spotify="am start com.spotify.music"
 alias tasks="am start com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity"
+alias float="am start com.termux.window/com.termux.window.TermuxFloatActivity"
 
 
 
