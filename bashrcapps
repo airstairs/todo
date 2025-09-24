@@ -24,6 +24,7 @@ alias phone="am start com.google.android.dialer"
 alias photos="am start com.google.android.apps.photos"
 alias play="am start com.android.vending/com.google.android.finsky.activities.MainActivity"
 alias pydroid="am start ru.iiec.pydroid3/ru.iiec.pydroid.MainActivity"
+alias repos="termux-open-url https://github.com/airstairs?tab=repositories"
 
 
 
