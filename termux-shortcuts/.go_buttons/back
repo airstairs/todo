@@ -33,20 +33,14 @@ os.system("sshd")
 # create ssh into me command
 cmnd=f"ssh -p 8022 {get_user_name()}@{get_local_ip()}"
 
-button_action = "pkill sshd"
-
 # post ssh running notification with command
 os.system(f"termux-toast \"starting ssh\"")
-#os.system(f"termux-notification -c \"{cmnd}\" -t \"ssh\"")
-notification = f"termux-notification --title \"ssh server ON\" --content \"{cmnd}\" --button1 \"stop ssh server\" --button1-action \"{button_action}\""
-os.system(notification)
-
+os.system(f"termux-notification -c \"{cmnd}\" -t \"ssh\"")
 
 # print out instructions and command
 os.system("clear")
 print("copy the ssh command below into Google Keep")
 print(f"\n\n\n\n\n    {cmnd}\n\n\n\n\n")
-
 
 # for i in tqdm(range(100)):
 #     time.sleep(0.09)  
