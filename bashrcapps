@@ -11,6 +11,7 @@ alias eruda="am start com.eruda/com.eruda.MainActivity"
 alias eruda2="am start io.liriliri.eruda/io.liriliri.eruda.MainActivity"
 alias files="am start me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity"
 alias flipaclip="am start com.vblast.flipaclip/com.vblast.feature_startup.presentation.StartupActivity - FlipaClip"
+alias gemini="am start com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity"
 
 
 # add hidden
