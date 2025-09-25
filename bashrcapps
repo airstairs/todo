@@ -16,7 +16,7 @@ alias github="am start com.github.android/com.github.android.main.MainActivity"
 alias gmail="am start com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"
 alias hermit="am start com.chimbori.hermitcrab"
 alias hello="termux-open-url http:localhost:8000"
-
+alias instagram="am start com.instagram.android/com.instagram.mainactivity.InstagramMainActivity"
 alias jupyter1="termux-open-url https://colab.research.google.com/"
 alias jupyter2="termux-open-url https://jupyter.org/try-jupyter/lab/"
 
