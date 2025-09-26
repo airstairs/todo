@@ -16,7 +16,7 @@ alias github="am start com.github.android/com.github.android.main.MainActivity"
 alias gmail="am start com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"
 alias hermit="am start com.chimbori.hermitcrab"
 alias hello="termux-open-url http:localhost:8000"
-alias instagram="am start com.instagram.android/com.instagram.mainactivity.InstagramMainActivity"
+
 alias jupyter1="termux-open-url https://colab.research.google.com/"
 alias jupyter2="termux-open-url https://jupyter.org/try-jupyter/lab/"
 alias keep="am start com.google.android.keep/com.google.android.keep.activities.BrowseActivity"
@@ -31,6 +31,7 @@ alias pydroid="am start ru.iiec.pydroid3/ru.iiec.pydroid.MainActivity"
 alias repos="termux-open-url https://github.com/airstairs?tab=repositories"
 alias spotify="am start com.spotify.music"
 alias tasks="am start com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity"
+alias trueskate="am start com.trueaxis.trueskate/com.trueaxis.trueskate.TrueskateActivity"
 alias float="am start com.termux.window/com.termux.window.TermuxFloatActivity"
 
 
